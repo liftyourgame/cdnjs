@@ -15,14 +15,14 @@
   "dependencies": {
     "clean-css": "~0.10.2",
     "uglify-js": "~2.2.5",
-    "glob": "~3.1.21",
+    "glob": "~5.0.15",
     "rss": "0.0.4",
     "underscore": "~1.4.4",
     "execSync": "0.0.4",
     "superagent": "~0.15.2"
   },
   "devDependencies": {
-    "glob": "3.1.9",
+    "glob": "5.0.15",
     "jslint": "0.1.8",
     "vows-si": "0.7.1",
     "JSV": "4.0.1"
