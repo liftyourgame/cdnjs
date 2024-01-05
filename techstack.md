@@ -84,7 +84,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [liftyourgame/cdnjs](https://github.com/liftyourgame/cdnjs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|73<br/>Tools used|12/14/23 <br/>Report generated|
+|73<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
