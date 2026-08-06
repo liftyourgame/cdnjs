@@ -1,0 +1,1012 @@
+repo_name: liftyourgame/cdnjs
+report_id: 1fcb8b60a7c646a8377b5417726ee066
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:02:13+00:00'
+requested_by: liftyourgame
+provider: github
+branch: master
+detected_tools_count: 73
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs
+  detection_source: Repo Metadata
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs
+  detection_source: Repo Metadata
+- name: Hack
+  description: A programming language for HHVM that interoperates seamlessly with
+    PHP
+  website_url: http://hacklang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/liftyourgame/cdnjs
+  detection_source: Repo Metadata
+- name: LiveScript
+  description: A language which compiles to JavaScript
+  website_url: http://livescript.net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/5404/New_Project.jpg
+  detection_source_url: https://github.com/liftyourgame/cdnjs
+  detection_source: Repo Metadata
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/marked/package.json
+  detection_source: ajax/libs/marked/package.json
+  last_updated_by: Ryan Kirkman
+  last_updated_on: 2013-06-07 22:48:59.000000000 Z
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/liftyourgame/cdnjs
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/kiwi/package.json
+  detection_source: ajax/libs/kiwi/package.json
+  last_updated_by: Pierre Matri
+  last_updated_on: 2012-08-19 22:18:44.000000000 Z
+- name: Backbone.js
+  description: Give your JS App some Backbone with Models, Views, Collections, and
+    Events
+  website_url: http://backbonejs.org/
+  version: 0.9.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/1017/Screen_Shot_2012-04-28_at_8.52.15_PM.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone.layoutmanager/package.json
+  detection_source: ajax/libs/backbone-associations/package.json
+  last_updated_by: Dhruva Ray
+  last_updated_on: 2013-09-27 17:11:19.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/bootstrap-hover-dropdown/package.json
+  detection_source: ajax/libs/bootstrap-hover-dropdown/package.json
+  last_updated_by: 7wonders
+  last_updated_on: 2013-12-04 14:08:32.000000000 Z
+- name: D3.js
+  description: A JavaScript visualization library for HTML and SVG
+  website_url: http://d3js.org/
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/crossfilter/package.json
+  detection_source: ajax/libs/crossfilter/package.json
+  last_updated_by: Norbert Crombach
+  last_updated_on: 2013-03-27 09:08:49.000000000 Z
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 1.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/blueimp-gallery/package.json
+  detection_source: ajax/libs/blueimp-gallery/package.json
+  last_updated_by: David Guillot
+  last_updated_on: 2013-10-29 09:30:08.000000000 Z
+- name: Stylus
+  description: Expressive, robust, feature-rich CSS language built for nodejs
+  website_url: http://stylus-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1172/stylus.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/documentup/package.json
+  detection_source: ajax/libs/documentup/package.json
+  last_updated_by: Jerome Gravel-Niquet
+  last_updated_on: 2012-01-25 05:49:50.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: '1.7'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/bootstrap-select/package.json
+  detection_source: ajax/libs/backbone.projections/package.json
+  last_updated_by: Aint Got
+  last_updated_on: 2013-08-16 07:28:20.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/amcharts/licence.txt
+  detection_source: ajax/libs/amcharts/licence.txt
+  last_updated_by: Lachlan Collins
+  last_updated_on: 2013-09-16 09:32:16.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone.projections/package.json
+  detection_source: ajax/libs/backbone.projections/package.json
+  last_updated_by: Aint Got
+  last_updated_on: 2013-08-16 07:28:20.000000000 Z
+- name: Eclipse
+  description: IDE for Java EE Developers
+  website_url: https://www.eclipse.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/ace/0.2.0/theme-eclipse.js
+  detection_source: ajax/libs/ace/0.2.0/theme-eclipse.js
+  last_updated_by: Nicholas Jefferson
+  last_updated_on: 2011-11-18 00:39:12.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+- name: Istanbul
+  description: A JS code coverage tool written in JS
+  website_url: http://gotwarlost.github.io/istanbul/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/Faker/package.json
+  detection_source: ajax/libs/Faker/package.json
+  last_updated_by: Martin
+  last_updated_on: 2013-09-16 00:13:39.000000000 Z
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/Faker/package.json
+  detection_source: ajax/libs/Faker/package.json
+  last_updated_by: Martin
+  last_updated_on: 2013-09-16 00:13:39.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 1.7.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/Faker/package.json
+  detection_source: ajax/libs/Base64/package.json
+  last_updated_by: Choongmin Lee
+  last_updated_on: 2013-09-14 14:05:51.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/kiwi/package.json
+  detection_source: ajax/libs/kiwi/package.json
+  last_updated_by: Pierre Matri
+  last_updated_on: 2012-08-19 22:18:44.000000000 Z
+- name: PhantomJS
+  description: Scriptable Headless WebKit
+  website_url: https://phantomjs.org/
+  version: 0.2.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone-associations/package.json
+  detection_source: ajax/libs/backbone-associations/package.json
+  last_updated_by: Dhruva Ray
+  last_updated_on: 2013-07-17 03:09:19.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 1.4.2
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/Faker/package.json
+  detection_source: ajax/libs/Faker/package.json
+  last_updated_by: Martin
+  last_updated_on: 2013-09-16 00:13:39.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Thomas Davis
+  last_updated_on: 2013-07-05 02:25:50.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone.projections/package.json
+  detection_source: ajax/libs/backbone.projections/package.json
+  last_updated_by: Aint Got
+  last_updated_on: 2013-08-16 07:28:20.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/marked/package.json
+  detection_source: ajax/libs/marked/package.json
+  last_updated_by: Ryan Kirkman
+  last_updated_on: 2013-06-07 22:48:59.000000000 Z
+- name: Frame
+  description: Run any software in a browser.
+  website_url: https://fra.me
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3795/Frame_Logo_Square.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/kiwi/package.json
+  detection_source: ajax/libs/kiwi/package.json
+  last_updated_by: Pierre Matri
+  last_updated_on: 2012-08-19 22:18:44.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/ckeditor/4.0.1/plugins/wsc/dialogs/ciframe.html
+  detection_source: ajax/libs/ckeditor/4.0.1/plugins/wsc/dialogs/ciframe.html
+  last_updated_by: Ryan Kirkman
+  last_updated_on: 2013-01-28 08:14:17.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/amcharts/licence.txt
+  detection_source: ajax/libs/amcharts/licence.txt
+  last_updated_by: Lachlan Collins
+  last_updated_on: 2013-09-16 09:32:16.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/kiwi/package.json
+  detection_source: ajax/libs/kiwi/package.json
+  last_updated_by: Pierre Matri
+  last_updated_on: 2012-08-19 22:18:44.000000000 Z
+- name: Raphael
+  description: JavaScript library that draws Vector graphics for web sites
+  website_url: http://raphaeljs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3044/72f4ddedbb738d7d21702bb9b57d7754_400x400.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/js-sequence-diagrams/package.json
+  detection_source: ajax/libs/js-sequence-diagrams/package.json
+  last_updated_by: Andrew Brampton
+  last_updated_on: 2013-05-19 21:59:31.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs
+  detection_source: Repo Metadata
+- name: Showdown
+  description: JavaScript port of Markdown
+  website_url: https://github.com/coreyti/showdown
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/marked/package.json
+  detection_source: ajax/libs/marked/package.json
+  last_updated_by: Ryan Kirkman
+  last_updated_on: 2013-06-07 22:48:59.000000000 Z
+- name: Underscore
+  description: JavaScript's utility _ belt
+  website_url: http://underscorejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/1150/underscore-js.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone-associations/package.json
+  detection_source: ajax/libs/backbone-associations/package.json
+  last_updated_by: Dhruva Ray
+  last_updated_on: 2013-07-17 03:09:19.000000000 Z
+- name: ZeroClipboard
+  website_url: http://zeroclipboard.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6891/no-img-open-source.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/datatables-tabletools/package.json
+  detection_source: ajax/libs/datatables-tabletools/package.json
+  last_updated_by: Ryan Kirkman
+  last_updated_on: 2013-02-09 23:09:14.000000000 Z
+- name: jStorage
+  description: A simple key/value database to store data on browser side
+  website_url: https://github.com/andris9/jStorage
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7399/132242.jpeg
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/CoolQueue.io/package.json
+  detection_source: ajax/libs/CoolQueue.io/package.json
+  last_updated_by: Peter Willemsen
+  last_updated_on: 2013-08-15 10:53:19.000000000 Z
+- name: jsdoc
+  description: An API documentation generator for JavaScript
+  website_url: http://usejsdoc.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Documentation as a Service & Tools
+  image_url: https://img.stackshare.io/service/4047/js-doc.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+- name: async
+  description: Higher-order functions and common patterns for asynchronous code
+  package_url: https://www.npmjs.com/async
+  version: 0.1.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/documentup/package.json
+  detection_source: ajax/libs/documentup/package.json
+  last_updated_by: Jerome Gravel-Niquet
+  last_updated_on: 2012-01-25 05:49:50.000000000 Z
+- name: coffee-script
+  description: Unfancy JavaScript
+  package_url: https://www.npmjs.com/coffee-script
+  version: '1.2'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15920/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/chroma-js/package.json
+  detection_source: ajax/libs/Base64/package.json
+  last_updated_by: Choongmin Lee
+  last_updated_on: 2013-09-14 14:05:51.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  version: 2.9.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/cubism/package.json
+  detection_source: ajax/libs/crossfilter/package.json
+  last_updated_by: Norbert Crombach
+  last_updated_on: 2013-03-27 09:08:49.000000000 Z
+- name: grunt-bower-task
+  description: Install Bower packages
+  package_url: https://www.npmjs.com/grunt-bower-task
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18665/default_1695d30317b82fb72729beb3a193adbd20fc0195.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/chaplin/package.json
+  detection_source: ajax/libs/chaplin/package.json
+  last_updated_by: Greg Pagendam-Turner
+  last_updated_on: 2013-12-09 04:33:37.000000000 Z
+- name: grunt-coffeelint
+  description: Lint your Coffee
+  package_url: https://www.npmjs.com/grunt-coffeelint
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16862/default_1b078765f7b7ae4ccce598a7251eb06451511e5e.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/chaplin/package.json
+  detection_source: ajax/libs/chaplin/package.json
+  last_updated_by: Greg Pagendam-Turner
+  last_updated_on: 2013-12-09 04:33:37.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+- name: grunt-contrib-coffee
+  description: Compile CoffeeScript files to JavaScript
+  package_url: https://www.npmjs.com/grunt-contrib-coffee
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16284/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/chaplin/package.json
+  detection_source: ajax/libs/chaplin/package.json
+  last_updated_by: Greg Pagendam-Turner
+  last_updated_on: 2013-12-09 04:33:37.000000000 Z
+- name: grunt-contrib-compress
+  description: Compress files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-compress
+  version: 0.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16797/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone.stickit/package.json
+  detection_source: ajax/libs/backbone.stickit/package.json
+  last_updated_by: geta6
+  last_updated_on: 2013-11-16 13:24:00.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 0.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+- name: grunt-contrib-connect
+  description: Start a connect web server
+  package_url: https://www.npmjs.com/grunt-contrib-connect
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/chaplin/package.json
+  detection_source: ajax/libs/chaplin/package.json
+  last_updated_by: Greg Pagendam-Turner
+  last_updated_on: 2013-12-09 04:33:37.000000000 Z
+- name: grunt-contrib-jasmine
+  description: Run jasmine specs headlessly through Headless Chrome
+  package_url: https://www.npmjs.com/grunt-contrib-jasmine
+  version: 0.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16820/default_1b078765f7b7ae4ccce598a7251eb06451511e5e.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/enquire.js/package.json
+  detection_source: ajax/libs/enquire.js/package.json
+  last_updated_by: WickyNilliams
+  last_updated_on: 2013-04-16 21:38:39.000000000 Z
+- name: grunt-contrib-jshint
+  description: Validate files with JSHint
+  package_url: https://www.npmjs.com/grunt-contrib-jshint
+  version: 0.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15898/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+- name: grunt-contrib-qunit
+  description: Run QUnit unit tests in a headless Chrome instance
+  package_url: https://www.npmjs.com/grunt-contrib-qunit
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16756/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone.stickit/package.json
+  detection_source: ajax/libs/backbone.stickit/package.json
+  last_updated_by: geta6
+  last_updated_on: 2013-11-16 13:24:00.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+- name: grunt-istanbul
+  description: JavaScript codecoverage tool for Grunt
+  package_url: https://www.npmjs.com/grunt-istanbul
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18240/default_950c270c4c8944606f2f09fbe7f322c8c9164018.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/chaplin/package.json
+  detection_source: ajax/libs/chaplin/package.json
+  last_updated_by: Greg Pagendam-Turner
+  last_updated_on: 2013-12-09 04:33:37.000000000 Z
+- name: grunt-karma
+  description: Grunt plugin for karma test runner
+  package_url: https://www.npmjs.com/grunt-karma
+  version: 0.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16328/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+  vulnerabilities:
+  - name: Grunt-karma vulnerable to prototype pollution
+    cve_id: CVE-2022-37602
+    cve_url: https://github.com/advisories/GHSA-hcj4-xf6x-63wj
+    detected_date: Oct 20
+    severity: critical
+    first_patched: 
+- name: grunt-mocha
+  description: Grunt task for running client-side Mocha specs in PhantomJS
+  package_url: https://www.npmjs.com/grunt-mocha
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17369/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/chaplin/package.json
+  detection_source: ajax/libs/chaplin/package.json
+  last_updated_by: Greg Pagendam-Turner
+  last_updated_on: 2013-12-09 04:33:37.000000000 Z
+- name: grunt-saucelabs
+  description: Grunt task running tests using Sauce Labs
+  package_url: https://www.npmjs.com/grunt-saucelabs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17562/default_3c6aa8b4297562bfc2a090966a5bc0fad1d0b678.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/h5Validate/package.json
+  detection_source: ajax/libs/h5Validate/package.json
+  last_updated_by: Szépe Viktor
+  last_updated_on: 2013-03-24 21:34:01.000000000 Z
+- name: jison
+  description: A parser generator with Bison's API
+  package_url: https://www.npmjs.com/jison
+  version: 0.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17359/default_2613a99266d0023b6108b16e4d6613c439a64039.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/js-sequence-diagrams/package.json
+  detection_source: ajax/libs/js-sequence-diagrams/package.json
+  last_updated_by: Andrew Brampton
+  last_updated_on: 2013-07-13 17:34:05.000000000 Z
+  vulnerabilities:
+  - name: Command Injection in jison
+    cve_id: CVE-2020-8178
+    cve_url: https://github.com/advisories/GHSA-vr9x-mm65-2438
+    detected_date: Aug 22
+    severity: high
+    first_patched: 
+- name: mocha-phantomjs
+  description: Run mocha browser tests in phantomjs via the command line
+  package_url: https://www.npmjs.com/mocha-phantomjs
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16868/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone.projections/package.json
+  detection_source: ajax/libs/backbone.projections/package.json
+  last_updated_by: Aint Got
+  last_updated_on: 2013-08-16 07:28:20.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/kiwi/package.json
+  detection_source: ajax/libs/kiwi/package.json
+  last_updated_by: Pierre Matri
+  last_updated_on: 2012-08-19 22:18:44.000000000 Z
+- name: nib
+  description: Stylus mixins and utilities
+  package_url: https://www.npmjs.com/nib
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17041/default_0e6669b56ffe7d68d8118eb8e85d024215fd5906.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/documentup/package.json
+  detection_source: ajax/libs/documentup/package.json
+  last_updated_by: Jerome Gravel-Niquet
+  last_updated_on: 2012-01-25 05:49:50.000000000 Z
+- name: node-static
+  description: Simple, compliant file streaming module for node
+  package_url: https://www.npmjs.com/node-static
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16814/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/codemirror/package.json
+  detection_source: ajax/libs/codemirror/package.json
+  last_updated_by: James Campos
+  last_updated_on: 2012-12-06 01:38:15.000000000 Z
+  vulnerabilities:
+  - name: node-static and @nubosoftware/node-static vulnerable to Directory Traversal
+    cve_id: CVE-2023-26111
+    cve_url: https://github.com/advisories/GHSA-5g97-whc9-8g7j
+    detected_date: Mar 8
+    severity: high
+    first_patched: 
+  - name: Denial of Service in node-static
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8r4g-cg4m-x23c
+    detected_date: Sep 23
+    severity: moderate
+    first_patched: 
+- name: optimist
+  description: Light-weight option parsing with an argv hash
+  package_url: https://www.npmjs.com/optimist
+  version: 0.3.5
+  license: MIT,X11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16145/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/Faker/package.json
+  detection_source: ajax/libs/Faker/package.json
+  last_updated_by: Martin
+  last_updated_on: 2013-09-16 00:13:39.000000000 Z
+- name: prelude-ls
+  description: Prelude.ls is a functionally oriented utility library
+  package_url: https://www.npmjs.com/prelude-ls
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18779/default_6573a8e18b31ebd0ef37ee1be216ea3f0ff3b1b5.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/livescript/package.json
+  detection_source: ajax/libs/livescript/package.json
+  last_updated_by: Chia-liang Kao
+  last_updated_on: 2013-05-14 15:55:35.000000000 Z
+- name: prompt
+  description: A beautiful command-line prompt for node.js
+  package_url: https://www.npmjs.com/prompt
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16207/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/chaplin/package.json
+  detection_source: ajax/libs/chaplin/package.json
+  last_updated_by: Greg Pagendam-Turner
+  last_updated_on: 2013-12-09 04:33:37.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone.projections/package.json
+  detection_source: ajax/libs/backbone.projections/package.json
+  last_updated_by: Aint Got
+  last_updated_on: 2013-08-16 07:28:20.000000000 Z
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.1.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/angular-ui-router/package.json
+  detection_source: ajax/libs/angular-ui-router/package.json
+  last_updated_by: yahyaKacem
+  last_updated_on: 2013-06-18 01:34:20.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: should
+  description: Test framework agnostic BDD-style assertions
+  package_url: https://www.npmjs.com/should
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/kiwi/package.json
+  detection_source: ajax/libs/kiwi/package.json
+  last_updated_by: Pierre Matri
+  last_updated_on: 2012-08-19 22:18:44.000000000 Z
+- name: through
+  description: Simplified stream construction
+  package_url: https://www.npmjs.com/through
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16309/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/backbone.projections/package.json
+  detection_source: ajax/libs/backbone.projections/package.json
+  last_updated_by: Aint Got
+  last_updated_on: 2013-08-16 07:28:20.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 2.4.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/blueimp-gallery/package.json
+  detection_source: ajax/libs/Base64/package.json
+  last_updated_by: Choongmin Lee
+  last_updated_on: 2013-09-14 14:05:51.000000000 Z
+  vulnerabilities:
+  - name: Incorrect Handling of Non-Boolean Comparisons During Minification in uglify-js
+    cve_id: CVE-2015-8857
+    cve_url: https://github.com/advisories/GHSA-34r7-q49f-h37c
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.4.24
+  - name: High severity vulnerability that affects uglify-js
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-g6f4-j6c2-w3p3
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.4.24
+  - name: Regular Expression Denial of Service in uglify-js
+    cve_id: CVE-2015-8858
+    cve_url: https://github.com/advisories/GHSA-c9f4-xj24-8jqx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.6.0
+- name: vows
+  description: Asynchronous BDD &amp; continuous integration for node.js
+  package_url: https://www.npmjs.com/vows
+  version: 0.7.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16365/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/liftyourgame/cdnjs/blob/master/ajax/libs/crossfilter/package.json
+  detection_source: ajax/libs/chroma-js/package.json
+  last_updated_by: Gregor Aisch
+  last_updated_on: 2013-08-26 11:07:20.000000000 Z
